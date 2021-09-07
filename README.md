@@ -6,5 +6,5 @@ Implementing wide variety of transformers, finetuning as well as trying architec
 2. Implementing Fast Transformers: Failed Attempt, FastTransformer Algorithm can be found [here](https://github.com/CCsaurabh/fast-transformer-pytorch).
 3. Adaptive Transformers for multimodal Representations: Research paper can be found [here](https://arxiv.org/abs/2005.07486).
 
-**[Videolinguistic Models](https://github.com/CCsaurabh/CTransformers/)**
+# [Videolinguistic Models](https://github.com/CCsaurabh/CTransformers/)**
 Implementing video plus lingustic model represenation using Transformers.
