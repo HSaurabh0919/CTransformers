@@ -8,7 +8,7 @@ Implementing wide variety of transformers (improvised version),finetuning as wel
 4. Learning Cross-Modality Encoder Representation from transformers: Paper can be found [here](https://arxiv.org/abs/1908.07490). 
 
 # [Linguistic Models](https://github.com/CCsaurabh/CTransformers/)
-My text generation model trained on Bhagvad_Gita (Holy Hindu Scripture English vesion) is now available on huggingface and can be found [here](https://huggingface.co/epsil/bhagvad_gita). 
+My text generation model trained on Bhagvad_Gita (Holy Hindu Scripture English version) is now available on [huggingface](https://huggingface.co/) and can be found [here](https://huggingface.co/epsil/bhagvad_gita). 
 
 The easiest way to use them is as below:
 ```
