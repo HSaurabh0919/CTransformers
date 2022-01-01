@@ -7,5 +7,16 @@ Implementing wide variety of transformers (improvised version),finetuning as wel
 3. Adaptive Transformers for multimodal Representations: Research paper can be found [here](https://arxiv.org/abs/2005.07486).
 4. Learning Cross-Modality Encoder Representation from transformers: Paper can be found [here](https://arxiv.org/abs/1908.07490). 
 
-# [Videolinguistic Models](https://github.com/CCsaurabh/CTransformers/)
-Implementing video plus lingustic model represenation using Transformers.
+# [Linguistic Models](https://github.com/CCsaurabh/CTransformers/)
+My text generation model trained on Bhagvad_Gita (Holy Hindu Scripture English vesion) is now available on huggingface and can be found [here](https://huggingface.co/epsil/bhagvad_gita). 
+
+The easiest way to use them is as below:
+```
+
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+tokenizer = AutoTokenizer.from_pretrained("epsil/bhagvad_gita")
+
+model = AutoModelForCausalLM.from_pretrained("epsil/bhagvad_gita")
+
+```
