@@ -1,4 +1,4 @@
-# [CTransformers](https://github.com/CCsaurabh/CTransformers/)
+# [CTransformers](https://github.com/HSaurabh0919/CTransformers/)
 
 Implementing wide variety of transformers (improvised version),finetuning as well as trying architectural variants from various research papers and blogs.
 
@@ -7,7 +7,7 @@ Implementing wide variety of transformers (improvised version),finetuning as wel
 3. Adaptive Transformers for multimodal Representations: Research paper can be found [here](https://arxiv.org/abs/2005.07486).
 4. Learning Cross-Modality Encoder Representation from transformers: Paper can be found [here](https://arxiv.org/abs/1908.07490). 
 
-# [Linguistic Models](https://github.com/CCsaurabh/CTransformers/)
+# [Linguistic Models](https://github.com/HSaurabh0919/CTransformers/)
 My text generation model trained on Bhagvad_Gita (Holy Hindu Scripture English version) is now available on [huggingface](https://huggingface.co/) and can be found [here](https://huggingface.co/epsil/bhagvad_gita). 
 
 The easiest way to use them is as below:
