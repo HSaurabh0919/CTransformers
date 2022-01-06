@@ -5,3 +5,4 @@
 2. [Classification](https://github.com/HSaurabh0919/CTransformers/blob/main/Classification/CLS_RNN_01.ipynb) of names from different languages using RNN and categorizing into different languages. This notebook is modified from [here](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html).
 The result can be summzrized as below,
 ![alt text for screen readers](https://github.com/HSaurabh0919/CTransformers/blob/main/Classification/Images/name_classification.png "Name Classification")
+
