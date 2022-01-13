@@ -20,3 +20,5 @@ tokenizer = AutoTokenizer.from_pretrained("epsil/bhagvad_gita")
 model = AutoModelForCausalLM.from_pretrained("epsil/bhagvad_gita")
 
 ```
+# [Weak Supervision Models](https://github.com/HSaurabh0919/CTransformers/blob/main/WeakSupervision/Fin_SA_WeakSupervision.ipynb)
+Weak Supervision model with Finance dataset taken from [here](https://www.researchgate.net/publication/251231107_Good_Debt_or_Bad_Debt_Detecting_Semantic_Orientations_in_Economic_Texts). Majority Modelling with some heuristics(rules) and currently work on 3 labelling function. Overall accuracy reached is about 61% and can be enhanced further by dealing with mixed sentence heuristics.
