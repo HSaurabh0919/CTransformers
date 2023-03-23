@@ -6,7 +6,7 @@
 
 ### Code:
 1. [ColBERT is a fast and accurate retrieval model, enabling scalable BERT-based search over large text collections in tens of milliseconds](https://github.com/stanford-futuredata/ColBERT/blob/main/docs/intro.ipynb)
-2. Tensorflow For Ranking using Antique Dataset(https://github.com/tensorflow/ranking/blob/master/docs/tutorials/tfr_bert.ipynb)
+2. [Tensorflow For Ranking](https://github.com/tensorflow/ranking/blob/master/docs/tutorials/tfr_bert.ipynb) using Antique Dataset.
 
 
 ### Personal Work and Codes
