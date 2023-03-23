@@ -1,12 +1,13 @@
 ## Document to Query Comparison Techniques,Papers, Data and Codes
 ### Papers:
 1. [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467)
-2. [Multi Stage Ranking with BERT](https://www.researchgate.net/publication/360973402_Multi-Stage_Document_Ranking_with_BERT)
+2. [Multi Stage Ranking with BERT](https://www.researchgate.net/publication/360973402_Multi-Stage_Document_Ranking_with_BERT). Usage of multiple steps prediction helps for faster predictions.
 
 
 ### Code:
 1. [ColBERT is a fast and accurate retrieval model, enabling scalable BERT-based search over large text collections in tens of milliseconds](https://github.com/stanford-futuredata/ColBERT/blob/main/docs/intro.ipynb)
 2. [Tensorflow For Ranking](https://github.com/tensorflow/ranking/blob/master/docs/tutorials/tfr_bert.ipynb) using Antique Dataset.
+3. [Multi Stage Ranking with BERT](https://github.com/castorini/duobert)
 
 
 ### Personal Work and Codes
