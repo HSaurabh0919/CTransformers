@@ -21,3 +21,6 @@
 2. Mean Reciprocal Rank
 
 ## Document to Data Comparison Techniques, Papers,Data and Codes
+### Paper:
+1. [Fine-tuned Siamese Sentence-BERT for
+Matching Jobs and Job Seekers](https://arxiv.org/pdf/2109.06501.pdf). Explores Pooling of SBERT using sentence length, take the mean of last 4 layers of [CLS] sentences and taking first 512 tokens of each document(Seems naive but effective as per the author).
