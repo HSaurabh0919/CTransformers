@@ -8,7 +8,7 @@ Embeddings for Dense Retrieval](https://arxiv.org/pdf/2105.03599.pdf)
     - Representation based Ranker, (Embed Document d and Query q last layers's [CLS] value Separately and check cosine similarity)
     - Interaction based Ranker,(q and d are concatenated of last layers's [CLS] value and then linearly combine weight w)
     - Multi Interaction based Ranker,(q and d are concatenated of each layers's [CLS] value and then linearly combined with weight w)
-    - Adds a neural ranking network upon BERT,It first constructs the translation matrix between query and document, using the cosine similarities  between the projections of their contextual embeddings. Then it combines the translation matrices from all layers using mean-pooling and linear combination.
+    - [Adds a neural ranking network](https://github.com/HSaurabh0919/CTransformers/blob/main/Document_Ranking/Codes/NeuralRanking.ipynb) upon BERT,It first constructs the translation matrix between query and document, using the cosine similarities  between the projections of their contextual embeddings. Then it combines the translation matrices from all layers using mean-pooling and linear combination.
 
 
 ### Code:
