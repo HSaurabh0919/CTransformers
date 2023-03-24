@@ -4,6 +4,11 @@
 2. [Multi Stage Ranking with BERT](https://www.researchgate.net/publication/360973402_Multi-Stage_Document_Ranking_with_BERT). Usage of multiple steps prediction helps for faster predictions.
 3. [Improving Document Representations by Generating Pseudo Query
 Embeddings for Dense Retrieval](https://arxiv.org/pdf/2105.03599.pdf)
+4. [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/pdf/1904.07531.pdf). The paper highlights the 4 categries for BERT compairson:
+    - Representation based Ranker, (Embed Document d and Query q last layers's [CLS] value Separately and check cosine similarity)
+    - Interaction based Ranker,(q and d are concatenated of last layers's [CLS] value and then linearly combine weight w)
+    - Multi Interaction based Ranker,(q and d are concatenated of each layers's [CLS] value and then linearly combined with weight w)
+    - Adds a neural ranking network upon BERT,It first constructs the translation matrix between query and document, using the cosine similarities  between the projections of their contextual embeddings. Then it combines the translation matrices from all layers using mean-pooling and linear combination.
 
 
 ### Code:
@@ -26,3 +31,4 @@ Embeddings for Dense Retrieval](https://arxiv.org/pdf/2105.03599.pdf)
 ### Paper:
 1. [Fine-tuned Siamese Sentence-BERT for
 Matching Jobs and Job Seekers](https://arxiv.org/pdf/2109.06501.pdf). Explores Pooling of SBERT using sentence length, take the mean of last 4 layers of [CLS] sentences and taking first 512 tokens of each document(Seems naive but effective as per the author).
+
