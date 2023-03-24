@@ -2,6 +2,8 @@
 ### Papers:
 1. [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467)
 2. [Multi Stage Ranking with BERT](https://www.researchgate.net/publication/360973402_Multi-Stage_Document_Ranking_with_BERT). Usage of multiple steps prediction helps for faster predictions.
+3. [Improving Document Representations by Generating Pseudo Query
+Embeddings for Dense Retrieval](https://arxiv.org/pdf/2105.03599.pdf)
 
 
 ### Code:
