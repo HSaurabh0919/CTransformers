@@ -31,4 +31,5 @@ Embeddings for Dense Retrieval](https://arxiv.org/pdf/2105.03599.pdf)
 ### Paper:
 1. [Fine-tuned Siamese Sentence-BERT for
 Matching Jobs and Job Seekers](https://arxiv.org/pdf/2109.06501.pdf). Explores Pooling of SBERT using sentence length, take the mean of last 4 layers of [CLS] sentences and taking first 512 tokens of each document(Seems naive but effective as per the author).
+2. [Information Retrieval System](http://orion.lcg.ufrj.br/Dr.Dobbs/books/book5/chap14.htm)
 
