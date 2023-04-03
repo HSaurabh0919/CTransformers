@@ -40,3 +40,8 @@ Matching Jobs and Job Seekers](https://arxiv.org/pdf/2109.06501.pdf). Explores P
 ### Papers:
 1. [Intra-Document Cascading: Learning to Select Passages
 for Neural Document Ranking](https://arxiv.org/pdf/2105.09816.pdf)
+
+
+### Code:
+1. [Intra-Document Cascading: Learning to Select Passages
+for Neural Document Ranking](https://github.com/sebastian-hofstaetter/matchmaker)
