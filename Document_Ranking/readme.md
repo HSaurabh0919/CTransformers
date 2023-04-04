@@ -40,8 +40,12 @@ Matching Jobs and Job Seekers](https://arxiv.org/pdf/2109.06501.pdf). Explores P
 ### Papers:
 1. [Intra-Document Cascading: Learning to Select Passages
 for Neural Document Ranking](https://arxiv.org/pdf/2105.09816.pdf)
-
+2. [Document Ranking with a Pretrained
+Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 
 ### Code:
 1. [Intra-Document Cascading: Learning to Select Passages
 for Neural Document Ranking](https://github.com/sebastian-hofstaetter/matchmaker)
+
+### Dataset:
+1. [TREC 2004 Robust Track Dataset](https://ir-datasets.com/trec-robust04.html)
