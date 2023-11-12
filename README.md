@@ -26,3 +26,12 @@ Weak Supervision model build wirh Snorkel and with Finance dataset taken from [h
 # [FineTune Sentence Transformers](https://github.com/HSaurabh0919/CTransformers/blob/main/BERT/Sbert_finetune.ipynb)
 1. Finetuning of Sentence Transformer for customized dataset.
 2. Improvements in Comparison Methods and Advanced Comparison Techniques.
+
+# [Performance Evaluation of Open Source Chat Models](https://github.com/HSaurabh0919/CTransformers/tree/main/LangChain)
+1. Performance of [Llama-2-7b-chat-hf](Llama/Llama_chat_hf_1.ipynb) seems reasonably good on open type questions.
+2. Performance of [RedPajama-3b](https://github.com/HSaurabh0919/CTransformers/blob/main/Llama/Performance_Evaluation_RedPajama_Chat_3B.ipynb) models are as below.
+    * Able to answer Open source type question
+    * For Context Aware Questions, sometime answers are irrelevant, sometime not able to reproduce results
+    * Very poor performance on multiple answer questions.
+
+   
