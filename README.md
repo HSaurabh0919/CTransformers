@@ -30,6 +30,7 @@ Weak Supervision model build wirh Snorkel and with Finance dataset taken from [h
 # [Performance Evaluation of Open Source LLM Models](https://github.com/HSaurabh0919/CTransformers/blob/main/Llama/readme.md)
 1. Performance evaluation of llama-7B Model
 2. Performance evaluation of Redpajama-3B Model
+3. Performance evaluation of Bloke Syntara-7B Model
 
 
 # Stay Tuned !!!
