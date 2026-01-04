@@ -1,4 +1,4 @@
-1. [Finetuning TinyBert](https://github.com/HSaurabh0919/CTransformers/blob/main/Finetuning/sbert_distillation.ipynb) using RobertaBase as Teacher Model.
+1. [Finetuning TinyBert](https://github.com/HSaurabh0919/CTransformers/blob/main/Finetuning/Distillation/sbert_distillation.ipynb) using RobertaBase as Teacher Model.
 
    
 | Model Name| Pearson Score| Spearman Score |
